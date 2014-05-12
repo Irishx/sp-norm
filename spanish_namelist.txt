@@ -1,0 +1,1459 @@
+
+FILE= (PS6000)
+Agustín
+Cortes
+Cortes
+Francisco Alemany
+Francisco
+Francisco Corro
+Agustín Pacheco
+FILE= (PS6001)
+Agustín
+Antonia Gutierres
+Agustin Pacheco
+FILE= (PS6002)
+Maria Pacheco
+Agustin Pacheco
+FILE= (PS6003)
+Joseph
+sosa
+Baltasar
+Fernando Bazquez
+Agustín Pacheco
+Francisco Bazquez
+FILE= (PS6004)
+alonso garçia
+Ana de de villalpando
+Ines de tores
+luysa de medina
+diego de aguilar
+geronimo de aguilar
+Antonio de medina
+juan de medina
+ysabel hernandes
+juan peres
+luisico
+diego peres
+ysabel peres
+FILE= (PS6005)
+juan
+juan
+juan escudero
+juan escudero
+luys rreal
+maria gomez
+juan escudero
+FILE= (PS6006)
+francisco ramirez
+diego de cero
+francisco goncalez
+francisco ramirez
+francisco goncalez
+francisco goncalez
+francisco ranirez
+diego lopez del castillo
+asenxo lopez
+diego lopez
+leonor de vera
+Pedro de vera
+francisco de vera
+pedro bazquez
+hernando bazquez
+antoño cuello
+catalyna
+pedro de vera
+francisco de vera
+francisca vazquez
+gonçalo de moya
+FILE= (PS6007)
+juan manzano
+elvira sanchez
+ysabel
+elvira sanchez
+isabel
+elvira sanchez
+ysabel
+juan de peñaranda
+FILE= (PS6008)
+mariqueta
+manuel
+francisco
+roque basques
+Mariqueta
+Manuel
+ysabel
+florentina
+Marcos Anttonio Fernandez y bonilla
+Juan fernandez fernandez
+FILE= (PS6009)
+pedro
+felix de Huarte
+felix de Huarte
+andres de setuain
+Maria rossa
+felix de huarte
+Angel
+Juan de Huarte
+Pedro loperena
+Pedro loperena
+Pedro
+Maria
+Martin de Arparron
+Pedro Arparron
+Pedro
+felix de Huarte
+Joseph
+Pedro
+felix de Huarte
+Juan de Galain y ybarrola
+catalina
+Grazosa de laucien y loperena
+FILE= (PS6010)
+Andres cepez
+Bernardo fadrique
+Maria Zeron
+FILE= (PS6011)
+christobal de arenas
+Manuel de Zuniga
+Bartolome de Zuniga
+FILE= (PS6012)
+maria teresa
+yniigo
+guana Pacheco
+francisco de abila
+lorenco ramos de abila
+FILE= (PS6013)
+mariana de Acuña
+Josphe de Gamy
+Juan Ignassio
+luis de baldes
+lasaro
+barbula
+maria
+Paloma
+pedro Panyagua
+françisco chacon
+Juan ygnasio
+pedro de camarlingo
+FILE= (PS6014)
+sebastian
+sebastian
+Eusebia Morante
+Simon Camaño
+FILE= (PS6015)
+sebastian
+Luis
+sebastian
+Geronimo
+Barbara
+Maria
+Isabel Luz Muñoz
+Frasquita
+Diego
+Geronimo
+Rosa
+claudio
+Barbara
+eusebia morante
+simon cahamaño
+FILE= (PS6016)
+Francisco Espinola
+juan de trevino
+trevino
+trevino
+andrea pesçioni
+juan boyer
+trevino
+Trevino
+trevino
+trevino
+francisco del peso cañas
+vincente portonarys
+trevino
+benito boyer
+benito boyer
+FILE= (PS6017)
+juan voyer
+mateo del canto
+juan voyer
+Benito boyer
+FILE= (PS6018)
+diego de Arze
+francisco spinola
+maria de Aratia
+Rodrigo madera
+Antonio Saget
+francisco del peso canas
+lope garçia de la torre
+benito boyer
+benito boyer
+benito boyer
+FILE= (PS6019)
+ana garçia
+daniel de perea
+pedro martin blanco
+pedro martin blanco
+antoño de espejo
+daniel de perea
+sebastian de alcudia
+antonio de zepeda
+FILE= (PS6020)
+juan muñoz vejarano
+Juanmuñoz
+martin de alcudia
+ana garcia
+martin de alcudia
+danyel de perea
+pedro martin blanco
+antoño d espejo
+bartolome romero
+juan de alcudia talaverano
+pedro muñoz
+jorge bacas
+bastian
+maria
+sebastian de alcudia
+mari plazuela
+FILE= (PS6021)
+Urtado
+Juana de Arriola
+francisco del Puerto
+FILE= (PS6022)
+maria
+josephe
+isabel
+maria Ramirez
+margarita
+diego martin
+diego martin
+diego martin
+juan garcia
+xristoval garcia velez
+ynes
+lorenzo
+maria ramirez
+Catalina Ramirez
+ysabel de algarin
+antonio Ramos
+juana ramos
+FILE= (PS6023)
+maria
+Joseph
+Ypolito
+chupita
+chomba
+maria
+ana de la rosa
+Andres
+Juan Miguel Jurado Bazquez
+andres
+FILE= (PS6025)
+Juan
+José Moro
+FILE= (PS6027)
+Jose Luis da Silba
+Jose Maria
+Ramiro
+Jose Maria
+Aniceto
+franciscoo Jose da Silbeira
+Joaquim Antonio Sanchez
+Jose Maria
+Jose Maria
+Jose Maria
+Aniceto
+Manuel Martinez de Santa Coloma
+FILE= (PS6028)
+Jozef Luis de Silva
+Josef Maria Dias
+Colom
+Ana
+Coloma
+Josef Maria
+Josef Maria
+Ana
+Josef Maria
+Lamaron
+Antonio
+Coloma
+Josef Maria
+Ana
+Coloma
+Josef Maria
+Josef Maria
+Ramiro de Castroviejo Quasi
+FILE= (PS6029)
+felisverto
+Marranita
+francisco
+Antonio Badas
+Antonio
+FILE= (PS6030)
+YsaBel
+Domingo cortes
+YSabel
+FILE= (PS6031)
+Manuel Nabasques
+Manuel Nabasques
+mateo
+Manel paRa
+Domingo cortes
+FILE= (PS6033)
+Juan
+Jose Moro
+Juan
+FILE= (PS6034)
+Joze Moro
+Antonio Moro
+Francisca Sales L.
+Joze Moro
+FILE= (PS6035)
+VVenceslao
+FILE= (PS6036)
+Pepito
+Parlati
+Vaus
+Medina
+Santana
+Antonio
+FILE= (PS6037)
+Casimiro
+Venceslao
+Luis da Silva
+Pepe
+Julian
+FILE= (PS6038)
+
+FILE= (PS6039)
+Joze Moro
+FILE= (PS6040)
+Pepe
+Custodio
+Julian
+Feliciano
+Pepe Casimiro
+FILE= (PS6041)
+Juan de Insua
+vermudez
+Camiño
+FILE= (PS6043)
+Luis coutinho
+Alonso Carrilho de Albornoz
+FILE= (PS6044)
+Antonio del Castillo Villavicencio
+Anna
+Jeronimo
+Thomas
+Francisco Pinedo y Caseres
+Agustín
+Maria
+maria Lopes de castro
+Miguel
+Pedro
+Francisco Rodrigues Pereira
+Jorge Pinto de Fonseca
+FILE= (PS6046)
+Manoel Rodrigues Mendes
+Leonarda Maria
+FILE= (PS6047)
+Manoel Rodriguess Mendes
+FILE= (PS6048)
+Carrilho
+anto alvres
+martin lopes
+Antonio de caçeres
+fernando
+fernando
+caçeres
+caceres
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+fernando
+Martin Lopes
+FILE= (PS6049)
+gregorioo beloso
+Benito toriño estebes
+santiago de nogueira
+FILE= (PS6050)
+Francisco
+Diego de Lessa
+Joseph garcia y eirie
+francisco Blanco de losada
+FILE= (PS6051)
+Anttonio
+Anttonio
+Anttonio
+Manuel de Araujo
+Gaspar gueto
+FILE= (PS6052)
+Joseph de la Guardia
+Bernardino
+Angel
+Joaquin Barvosa
+Bernarnardino
+migel de soto
+Joseph de la Guardia
+FILE= (PS6055)
+Mathias
+nuestro señor
+Juan Gomez de Andrade
+dionisio blanco de Pastoriza
+FILE= (PS6056)
+
+FILE= (PS6057)
+Antonio ozores
+Pedro Rey
+FILE= (PS6059)
+Cosme
+Cosme
+Maria
+Cosme Camba
+FILE= (PS6064)
+Andres
+FILE= (PS6065)
+Andres
+FILE= (PS6066)
+Andres
+FILE= (PS6067)
+
+FILE= (PS6068)
+Andres
+FILE= (PS6069)
+Andres
+FILE= (PS6070)
+Luisa
+FILE= (PS6071)
+Gallego
+Pedro Antonio de Barrera y Montengro
+FILE= (PS6072)
+Joaquim
+Cristo
+Gilbert
+FILE= (PS6073)
+Pedro camiño
+Andres camiño
+Alverte leal
+martiño da junqueyra
+cristoVal cavron
+Montoto
+Pacheco
+leal
+FILE= (PS6074)
+carril
+Pedro Montoto
+DominGo Pacheco
+FILE= (PS6075)
+Marcos Fernandez
+martiño montero
+Pacheco
+Montoto
+FILE= (PS6076)
+marcos
+Jossepha
+Angela
+FILE= (PS6077)
+Alverte Marcos
+Montoto
+Soutelo
+FILE= (PS6078)
+Martiño Montas
+Montoto
+FILE= (PS6079)
+santiago
+Iago
+Pedro Montoto
+FILE= (PS6080)
+Alvertico
+alverte
+Angela
+jossepha
+alverte
+moscoso
+Pacheco
+Angela
+Angela
+Pedro Montoto de Lago
+Pedro cachupin
+marques de ValVazes.
+Domingo Ramos
+FILE= (PS6081)
+Pedro Montoto
+Domingo Ramos
+FILE= (PS6082)
+josseph Gesa
+Neyra
+moscoso
+Angela
+FILE= (PS6083)
+fandiño
+Fernando
+Angela
+Lago
+FILE= (PS6084)
+Montoto
+Domingo Ramos Vaamonde
+FILE= (PS6085)
+Mathias
+Gesto
+jacinto reimondez
+Bolaños
+Angela
+Jossepha
+Montoto
+Domingo ramos Vaamonde
+FILE= (PS6086)
+Juan Fariña, mosquera
+Pedro montoto
+antonio de Lago montoto
+Pedro de Lago, Lanzos, Santa marina
+catalina montoto, ochoa
+Antonio de Lago, montoto
+Pedro Montoto de Lago
+Juan Fariña Mosquera
+Baltasar mandia
+FILE= (PS6087)
+ana
+Maria de Castro
+FILE= (PS6088)
+migel de torres
+juana maria de castro
+FILE= (PS6089)
+margarita de balcarçel
+maria de Castro
+josep
+FILE= (PS6090)
+
+FILE= (PS6092)
+martin
+Domingo loriga y Andrade
+Seyxas
+FILE= (PS6093)
+amaro pati-ño
+pedro nicolas
+Domingo loriga y Andrade
+Pedro Andres de miranda
+FILE= (PS6094)
+Pedro Andres
+amaro Patiño
+Pedro nicolas
+domingo Anttonio
+domingo Anttonio
+Domingo loriga y Andrade
+Pedro Andres de miranda
+FILE= (PS6095)
+andres  hor
+madalena
+gregoria
+Domingo loriga y Andrade
+copeyro
+Pedro Andres de miranda
+FILE= (PS6096)
+gregorio de cacho
+francisco
+Bne.
+juan dobal
+francisco bermudes
+antonia
+julio de bilar
+Juan basques somorrostro
+FILE= (PS6097)
+Antonia
+Anbroçio
+Matheo pinan
+êsteban Cavallero
+Ambroçio
+Marino
+Bernardo Garcia
+Bartolome escudero 
+Joseph Somoza
+Garcia
+Joseph Somoza
+Bernardo
+Micarino
+Ambrocio
+Antonia
+joseph vêrmudez
+Miguel de sotomayor
+Juan Antonio albaredo
+FILE= (PS6098)
+Julio
+AnBrosio
+joseph somoza
+anBrosio
+antonio
+joseph vermudes
+miguel de sotomayor
+FILE= (PS6099)
+Antonia
+Andres
+Anbrosio
+joseph vermudes
+Albaredo
+Miguel de sottoMayor
+FILE= (PS6100)
+Bernardo Garzia
+Bartolome
+Anbrosio
+Bartolome
+Juan de Riaño
+anbrosio
+de peguda
+Miguel geronimo
+Joseph
+Bernardo
+Miguel de Sottomayor
+Joseph Vermudes
+Bartolome
+FILE= (PS6101)
+Bartolome
+Joseph somoza
+Bernardo Garcia
+Bartolome
+AnBrosio de Peguda
+Ambrosio
+francisco de Billa prego
+Joseph Marino
+Bernardo
+Bartolome
+Bartolome
+Mateo de Alban
+Miguel de Sottomayor
+Ambrosio
+Joseph Vermudes de Castro
+Bartolome
+Bartolome
+FILE= (PS6102)
+mateo de alban
+Miguel de Sottomayor
+Joseph Vermudes de Castro
+FILE= (PS6103)
+Antonia de la Fuente
+FILE= (PS6104)
+Ramon
+Pepita
+Antonia de la Fuente
+FILE= (PS6105)
+pepa
+Josefa Arceo de velasco
+FILE= (PS6106)
+Ramon
+Gregorio sanchez
+Bernardino Velon
+FILE= (PS6107)
+Josef Fernando
+FILE= (PS6108)
+Domingo de Santa Marina
+Joseph Araujo
+Juan Manuel Araujo somoza
+Joseph  Araujo
+Phe.
+FILE= (PS6109)
+Joseph de santa Marina
+Juan Manuel Araujo y Somoza
+FILE= (PS6110)
+Domingo de santa Marina
+Juan Manuel Araujo y Somoza
+FILE= (PS6111)
+santiago
+Thomasa
+Manuel Bernardo
+Domingo de santa Marina
+Manuel Bernardo
+Santa Marina
+FILE= (PS6112)
+francisco
+baltasar chico
+Maria antonia
+Benita
+francisco
+francisco yglesia
+maria antonia
+catalina buela
+juan crespo
+FILE= (PS6114)
+Pedro de sar
+Pedro alvares de castro
+FILE= (PS6115)
+Pedro alvares de castro
+FILE= (PS6116)
+julio de moldes
+julio siso
+afonso perez
+catalyna de magarinos
+Pedro alvares de castro
+FILE= (PS6117)
+julio siso
+rromay
+luys vermudez
+julio siso
+luys vermudez
+julio siso
+sabedra
+albares
+julio de bandui
+leonor albares
+maria
+fygeroa
+julio siso
+pero bermudez
+afonso albares
+Pedro alvares de castro
+FILE= (PS6118)
+artud
+fangio
+Pedro alvares de castro
+FILE= (PS6119)
+alonso de santiso
+FILE= (PS6120)
+Fernando Pita da beiga Revellon
+Antonio Gomez suarez
+FILE= (PS6121)
+gesuchristo
+Alonso Sotelo feijoo
+Antonio marcos
+FILE= (PS6122)
+Pepito Abad
+Alvaro
+Argote
+Juan Boedo y Cardois
+FILE= (PS6123)
+Benito Abad
+Maria
+Joaquina Cardois
+FILE= (PS6124)
+lope de coiro
+maria lopez d aguiar
+Ramiro de villegas
+FILE= (PS6125)
+Antonio
+Ubiña
+Francisco Antonio Martinez
+Ubiña
+FILE= (PS6126)
+Regenaa réné
+Mina
+Guedés
+Aguilar
+Guedés
+FILE= (PS6127)
+Santos Garcia
+Geronimo Ruiz cano
+Andres Castaño
+Juan Francisco Gil de Rozas y Velasco
+Aquilino de Perales
+Juan Antonio Gil de Rozas 
+Nicolas Bullido
+Alexandro Bullido
+Santos
+Aquilino
+Maria
+Mariano de Yepes y Soriano
+FILE= (PS6128)
+Manuel Carmena
+Manuela Rodriguez
+FILE= (PS6129)
+Mari La puerta
+agustin sanchez
+agustin sanchez
+miguel el baylador
+dieguo Lebrero
+FILE= (PS6130)
+isabel ximenez
+mari la puerta
+Dieguo Lebrero
+FILE= (PS6131)
+diego lopez
+hernan velazquez
+argona
+hernã velazquez
+argona
+maria ortiz
+Juana ortiz
+FILE= (PS6132)
+hernã velazquez
+FILE= (PS6133)
+Rodrigo
+Bartolo
+Romero
+ugenio Sanchez
+Eugenio
+alBierte
+Catalina Martin
+Eugenio Sanchez
+FILE= (PS6134)
+Alonsso ordonez
+FILE= (PS6135)
+Manuel
+mariquita
+Romo
+Yernin
+Vizentte Redondo
+manuel Gomez
+fruttos
+Juan De montuenga
+Jiosephe Saiz
+maria mansilla
+Juan Mansilla
+Pedro Perico
+Juan Domingo Buñÿ
+Manuel Zarzuelo
+manuela
+mariquitta
+Curapollos
+teresa
+Pedro perico
+Gutierrez
+Brisca
+FILE= (PS6136)
+Manuel
+mariquita
+Manuel
+Juan Mansillas
+Nicolas Rajo
+manuela mansilla
+miguel lattatto
+Pedro Perico
+miguel lucas
+francisco Sanchez
+pedro Perico 
+mariquita
+Juan Domingo Buñy
+CuraPollos
+manueliqua
+Romo
+arttospliegos
+josphe saiez
+FILE= (PS6137)
+Juan
+Miguel
+Juan
+manuela
+Platero
+Juan
+Maria
+Miguel Lucas
+Garido
+Antonio de Pollos
+Pedro de la torre
+Manuel Zarzuelo
+FILE= (PS6138)
+Juan mansilla
+Nicolas rajo
+maria
+manuela mansilla
+Juan Domingo Buñÿ
+Manuel Zarzuelo
+FILE= (PS6139)
+Zarzuelo
+Manuela
+Manuela
+Miguel
+Pedro de la torre
+Manuel Zarzuelo
+FILE= (PS6140)
+thilano
+Joseph Sanz
+Manuela Mansilla
+thilano
+Manuel de la torre
+Pedro
+FILE= (PS6141)
+Joseph
+Aguilar
+theresa
+Manuela de mansilla
+Joseph saez cantos
+FILE= (PS6142)
+Casimiro Gonzalez
+Joseph Saez Cantos
+FILE= (PS6143)
+Diego
+Mariquita
+Baptista
+ssanta Leocadia
+FILE= (PS6144)
+Baptista
+ssanta Leocadia
+FILE= (PS6145)
+Arellano
+juanico
+xpisttobal
+Baptista 
+Rossa
+FILE= (PS6146)
+Matheo
+Diego
+juanico
+Miguel de Goyeneche
+olallita
+Matheo
+Benito
+xrispttobal
+olallita
+xpistobal
+Baptista
+Rossa
+FILE= (PS6147)
+Rossa
+Rossa
+cabrera
+Rossa
+Diego
+Alfaro
+Rossa
+Rossa
+Rossa
+olallita
+Rossa
+Baptista
+Rossa
+FILE= (PS6148)
+Rossa
+sotto
+Diego
+Alfaro
+Baptista
+Rossa
+FILE= (PS6149)
+Alfaro
+Diego
+Baptista
+Mariquita
+Rossa
+franzisco
+Baptista
+Rossa
+FILE= (PS6150)
+Baptista
+Baptista
+Baptista
+Baptista
+Baptista
+FILE= (PS6151)
+Cabrera
+Pintto
+ Mala pesca
+Baptista
+Rossa
+FILE= (PS6152)
+Yssidro
+Diego
+Baptista
+Rossa
+Alfaro
+Diego
+FILE= (PS6153)
+Manuela
+Diego
+Manuela
+Alfaro
+yssidro
+Manuela
+Alfaro
+Pedro
+Manuela
+alfaro
+Blas
+Manuela
+FILE= (PS6154)
+sotto
+Manuela
+olias
+Diego
+xrisptobal
+Blas
+Manuela
+FILE= (PS6155)
+Manuela
+Blas
+ManueLa
+FILE= (PS6156)
+ssoto
+Diego
+Manuela
+Alfaro
+Manuela
+Blas
+ManueLa
+FILE= (PS6157)
+Manuela
+Diego
+Juan Pedro de hermossa
+Baptista
+Manuela
+francisco
+manuela
+Maria
+xavier
+Blas
+Manuela
+FILE= (PS6158)
+Manuela
+Monasterios
+Cuerdo
+fuentte
+cabellito
+soto
+hortiz
+ssanta Leocadia
+frutos
+Blas
+Manuela
+Tozuelo
+Diego
+Blas
+Manuela
+FILE= (PS6159)
+Mendrugo
+ManueLa
+tozuelo
+Garve
+sancho
+quijote
+Pedro
+tozuelo
+Blas
+Manuela
+FILE= (PS6160)
+Baptista
+Manuela
+Manuela
+Blas
+Manuela
+FILE= (PS6161)
+tomas
+bautista
+FILE= (PS6162)
+santa leocadia
+francisco
+manuela
+FILE= (PS6163)
+diego
+diego
+diego
+santa leocadia
+manuela bautista
+FILE= (PS6164)
+Santa Leocadia
+Manuela
+Diego del Amor
+alfaro
+FILE= (PS6166)
+mariquita
+mariquita
+Marcos
+mariquita
+manuela
+FILE= (PS6167)
+catalina
+barbara
+ines
+catalina
+santa leocadia
+santa leocadia
+manuela
+FILE= (PS6168)
+tomas
+tomas
+santa leocadia
+francisco
+christobal
+diego
+juan
+santa leocadia
+santa leocadia
+angela
+angela
+juan bautista
+FILE= (PS6169)
+Jesus
+tomas
+fernando
+francisco
+redondo
+manuela
+FILE= (PS6170)
+santa leocadia
+diego
+christobal
+manuela de francisco
+FILE= (PS6171)
+diego
+mariquita
+blas
+manuela
+FILE= (PS6172)
+marcela
+lfaro
+santa leocadia
+pedro pablo
+pedro pablo
+santa leocadia
+mariquita
+diego
+mariquita
+blas
+isidro
+guan bautista
+FILE= (PS6173)
+santa leocadia
+mariquita
+blas
+isidro
+FILE= (PS6174)
+teresa
+santa leocadia
+francisco
+mariquita
+diego
+juan
+manuela de santa leocadia
+FILE= (PS6175)
+mariquita
+tomas
+diego
+christobal
+manuela
+fernando
+FILE= (PS6176)
+Maria
+Jose
+isidro
+pinto
+mariquita
+manuela
+FILE= (PS6177)
+gusanillo
+Maria
+diego
+christobal
+santa leocadia
+elias
+manuela de santa leocadia
+francis
+FILE= (PS6178)
+billegas
+isabel
+manuela
+FILE= (PS6179)
+mariquita
+FILE= (PS6180)
+mariquita
+manuela
+FILE= (PS6181)
+santa leocadia
+mariquita
+claudia
+santa leocadia
+santa leocadia
+mariquita
+franscisco
+FILE= (PS6182)
+billegas
+santa leocadia
+FILE= (PS6183)
+tomas
+diego
+christobal
+bautista
+FILE= (PS6184)
+diego
+diego
+santa leocadia
+diego
+pedro pablo
+santa leocadia
+geronimo
+blas
+santa leocadia
+mariquita
+manuela
+FILE= (PS6185)
+catalina
+diego
+angela
+marcela
+francisco salasar
+manuela de santa leocadia
+FILE= (PS6186)
+blas
+diego
+diego
+diego
+diego
+santa leocadia
+diego
+christobal
+manuela de santa leocadia
+FILE= (PS6187)
+blas
+guan
+leocadia
+mariquita
+FILE= (PS6188)
+
+FILE= (PS6189)
+pablo
+pablo
+tomas
+francisco
+manuela de santa leocadia
+FILE= (PS6190)
+mariquita
+christobal
+santa leocadia
+francisco
+mariquita
+manuela
+FILE= (PS6191)
+bautista
+tomas
+francisco
+manuela
+FILE= (PS6192)
+Simon Verea, Abellon
+Anizeto de Castro
+Viñas
+Nicolas
+Nicolas
+Pedro varela
+Bieytes
+Aniceto
+Aniceto
+Manuel de la torre
+Nicolas
+Nicolas
+Nicolas
+de Queralto
+Manuel Pereyro
+FILE= (PS6193)
+Andres Lopez
+Juan Francisco Gonzalez
+FILE= (PS6194)
+Andres Lopez
+Francisco San-jurjo
+Maria Rosenda Ro-driguez
+Pedro Antonio Lopez
+Silba
+Sanjurjo
+Antonia
+Juan Francisco Gonzalez del Pico
+Evaristo
+FILE= (PS6195)
+Anbrosio Rodriguez
+ Alvaro de Balcarçe
+Joseph Anttonio guitian Losada y quiroga
+FILE= (PS6196)
+Benito Sotelo
+Pepe
+Francisco Vazquez y Bo-veda
+Benito Sotelo
+FILE= (PS6197)
+antonyo
+agustiño salvago
+alvaro vaaz de fonseca
+FILE= (PS6198)
+claudo
+quinones
+isidro
+maria de soto
+geronimo de bitoria
+Catarina de mendoca
+FILE= (PS6199)
+julio de soto
+ francisca de mendoca
+FILE= (PS6200)
+antonio baliente
+sevastian de ribera
+estevan salgado
+francisca de oliveira
+maria
+Maria ysabel gorge
+ysabel gorxe
+antonio balente
+alvaro gutiersrez
+sevastian de olibera
+estieban salgado
+juan chanoca
+sebastian francisco
+tobal
+alvaro gutierrez
+Antonio gutierres
+FILE= (PS6201)
+J4z2ph m2z4n2s
+FILE= (PS6202)
+Esequiel de Espiritu Santo
+Eladio Franco
+Geronimo Patron
+Ezequiel do Esprito Santo
+FILE= (PS6203)
+Diego Roxas de Vera
+Domingo Rolis Machado
+FILE= (PS6204)
+Diego Roxas de Viera
+Domingo Rolis Machado
+FILE= (PS6205)
+Diego Roxas de Bera
+ynes leonarda de espinosa
+Diego Rojas de Bera
+Domingo felis Rolis machado
+FILE= (PS6206)
+migel perez
+ysabel martinez
+francisco perez
+juan alvarez
+beatriz ianes
+pedro martim
+Juan martim
+bras martín
+maria martín
+beatriz
+migel perez
+beatriz ianes
+migel perez
+pedro martinz
+isabel martin
+gonzalo martin
+juan martinz
+gonzalo martinz
+Amaro Martin
+FILE= (PS6207)
+Manuel
+Josepha
+FILE= (PS6208)
+Juan De Molina
+Juan
+Juan
+Josepha
+Juan
+Joseph sensevez
+Manuel texadillos
+FILE= (PS6209)
+Anastasia
+Balthasar
+Joseph
+Francisco de Arreguiz
+Jayme Valle
+FILE= (PS6210)
+nicolas hernandez
+luis perez
+julio nuñez
+niculas vasquez
+julio de villada
+pere luis
+francisco perez
+ayllon
+casas
+diego de lara
+vascuñan
+moysen
+afonso Rodriguez
+pablo de ayllon
+afonso Rodriguez castro
+francisco sillen
+julio de sotomayor
+yañes
+diego de lara
+diego perez
+guebara
+francisco perez
+bernad amat
+ysabelica
+jeronimo
+antonio
+minano.
+Jeronimo amat
+luis de ayllon
+julio de aillon
+FILE= (PS6211)
+Andres de araujo
+Josseh
+Margarida
+Maricana
+francisco
+Caitano
+Salamon arrobas
+FILE= (PS6213)
+Fraggia
+Ros
+Salvador
+Antonio de Caramany.
+FILE= (PS6214)
+caramany
+de caramany y fontdevila
+FILE= (PS6215)
+Simon Vert
+Pica
+Perramon
+Salvador de Caramany
+Señor
+Don
+Juan de Pujadas, ÿ Alerm
+FILE= (PS6216)
+Ignacio de sabater
+Salvador de caramany
+Salvador
+FILE= (PS6217)
+Anna
+Francisca de Fragge
+Ignacio de sabater
+Salvador de caramany
+FILE= (PS6218)
+Cancio
+de caramany y fontdevila
+FILE= (PS6219)
+de caramany y Fontdevila
+Salvador de Caramany y Fontdevila
+FILE= (PS6220)
+de caramany y Fontdevila
+Salvador de Caramany y Fontdevila
+FILE= (PS6221)
+de caramany y Fontdevila
+Salvador de Caramany y Fontdevila
+FILE= (PS6222)
+de caramany y Fontdevila
+Salvador de Caramany y Fontdevila
+FILE= (PS6223)
+cara-many
+de caramany y Fontdevila
+Salvador de Caramany y Fontdevila
+FILE= (PS6224)
+Ricardo Wall
+de caramany y Fontdevila
+Salvador de Caramany ÿ Fontdevila
+FILE= (PS6225)
+Salvador Caramany
+Narcissa de Caramany ÿ Fontdevila
+FILE= (PS6226)
+Pedro ximenez
+zaballos
+Alonso lopez
+Pedro ximenez
+Maria de Nenclarg
+julioo de Nenclarg
+julioa de la santa
+leandro
+FILE= (PS6227)
+Fernando
+Thomas Garcia
+Pablo River
+Thomas Garcia
+FILE= (PS6228)
+
+FILE= (PS6229)
+manuela
+manuela
+Andre
+Manuel Soler
+andre
+celipa
+Manuel Soler
