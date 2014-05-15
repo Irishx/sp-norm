@@ -64,15 +64,13 @@ open (FILE,"<:encoding(UTF-8)", $file)  || die "can't open $file\n";
 while(<FILE>)
 {
 	my $line = $_;
-	
-	if($line =~ /<\/s>/){ print OUTFILE "<s>\n";  }
-	
-	if($line =~ /<fs /)
+
+	if($line =~  /<\/fs>/)
 	{  
 	    print OUTFILE "$orig\t$norm\t$expand\n";
 		$orig =$norm =$expand ="";
 	}
-		
+			
     if($line =~ /<f name="(.*?)"><string>(.*)<\/string><\/f>/)
     {
     	my $type =$1;
@@ -84,7 +82,7 @@ while(<FILE>)
         if($type  eq "exp"){$expand = $token;}
     }
      
-    
+    if($line =~ /<\/s>/){ print OUTFILE "<s>\n";  }
 }
 close(FILE);
 close(OUTFILE);
